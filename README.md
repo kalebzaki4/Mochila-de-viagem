@@ -1,15 +1,15 @@
-# Mochila-de-viagem
+# Mochila-de-viagem 🎒✈️
 
 Bem-vindo ao repositório Mochila-de-viagem! Este é um projeto em JavaScript para a web que permite armazenar e gerenciar dados de uma mochila de viagem no navegador.
 
-## Funcionalidades
+## Funcionalidades 📋
 
 - Adicionar itens à mochila
 - Remover itens da mochila
 - Visualizar a lista de itens da mochila
 - Armazenar os dados localmente no navegador
 
-## Como usar
+## Como usar 🛫🌍
 
 1. Clone este repositório em sua máquina local:
    ```
@@ -25,13 +25,13 @@ Bem-vindo ao repositório Mochila-de-viagem! Este é um projeto em JavaScript pa
 
 4. Use a interface do aplicativo para adicionar, remover e visualizar os itens da mochila.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 🚀
 
 - JavaScript
 - HTML
 - CSS
 
-## Contribuição
+## Contribuição 🤝
 
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga as etapas abaixo:
 
@@ -50,10 +50,10 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga as 
    ```
 5. Abra um pull request neste repositório.
 
-## Autor
+## Autor 👤
 
 Seu Nome - [seu-email@example.com](mailto:seu-email@example.com)
 
-## Licença
+## Licença 📜
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
