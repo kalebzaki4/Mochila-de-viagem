@@ -2,14 +2,18 @@
 
 Bem-vindo ao repositório Mochila-de-viagem! Este é um projeto em JavaScript para a web que permite armazenar e gerenciar dados de uma mochila de viagem no navegador.
 
-## Funcionalidades 📋
+## Descrição 📋
 
-- Adicionar itens à mochila
-- Remover itens da mochila
-- Visualizar a lista de itens da mochila
-- Armazenar os dados localmente no navegador
+O objetivo deste projeto é criar uma aplicação web onde você possa adicionar e remover itens de uma mochila de viagem, além de visualizar a lista de itens presentes. Os dados são armazenados localmente no navegador, proporcionando uma experiência simples e prática.
 
-## Como usar 🛫🌍
+## Funcionalidades 🚀
+
+- Adicionar itens à mochila.
+- Remover itens da mochila.
+- Visualizar a lista de itens na mochila.
+- Armazenar os dados localmente no navegador.
+
+## Como Utilizar 🛫🌍
 
 1. Clone este repositório em sua máquina local:
    ```
@@ -23,9 +27,9 @@ Bem-vindo ao repositório Mochila-de-viagem! Este é um projeto em JavaScript pa
 
 3. Abra o arquivo `index.html` em um navegador da web compatível.
 
-4. Use a interface do aplicativo para adicionar, remover e visualizar os itens da mochila.
+4. Utilize a interface do aplicativo para adicionar, remover e visualizar os itens da mochila.
 
-## Tecnologias utilizadas 🚀
+## Tecnologias Utilizadas 🚀
 
 - JavaScript
 - HTML
@@ -33,7 +37,7 @@ Bem-vindo ao repositório Mochila-de-viagem! Este é um projeto em JavaScript pa
 
 ## Contribuição 🤝
 
-Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga as etapas abaixo:
+Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga as etapas abaixo:
 
 1. Faça um fork deste repositório.
 2. Crie um branch para suas modificações:
@@ -50,10 +54,12 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga as 
    ```
 5. Abra um pull request neste repositório.
 
-## Autor 👤
-
-Seu Nome - [seu-email@example.com](mailto:seu-email@example.com)
-
 ## Licença 📜
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+## Criador 👤
+
+Este projeto foi criado por Kalebzaki4.
+
+**GitHub: [kalebzaki4](https://github.com/kalebzaki4)**
